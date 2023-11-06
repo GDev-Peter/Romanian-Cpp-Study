@@ -10,7 +10,7 @@ This is a public repository that has a lot of information about the c++ programm
 |  |            |Citire si Scriere| | |
 |  |            |Operatori C++    | | |
 |  |            |Codul ASCII      | | |
-|X1|**Probleme**| | |Entry-level|
+|X1|**Probleme**| |probleme simple de pe site-ul pbinfo.ro|Entry-level|
 |X1|Structuri de Control| | |Entry-level|
 |  |            |Structura liniara       | | |
 |  |            |Structuri alternative   | | |
